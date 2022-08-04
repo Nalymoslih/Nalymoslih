@@ -146,22 +146,10 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/joseph625/github-readme-stats"><img alt="joseph625's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Joseph625&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/joseph625/github-readme-stats"><img alt="joseph625's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph625&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-</details>
 
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=joseph625)
 
-</details>
-
-[![Yousif's github activity graph](https://activity-graph.herokuapp.com/graph?username=joseph625&custom_title=Yousif's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/joseph625/github-readme-activity-graph)
 
 
 
