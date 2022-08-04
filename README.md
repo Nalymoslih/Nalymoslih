@@ -93,6 +93,8 @@
 
 <!--     <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/> -->
   <!--   <img src='https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white' /> -->
+  <img src='https://img.shields.io/badge/-MaterialUI-0081CB?logo=materialui&logoColor=white' />
+    <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/>
 
     <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
 
