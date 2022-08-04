@@ -90,8 +90,8 @@
     <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"> 
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a> 
 
-    <img src='https://img.shields.io/badge/-MaterialUI-0081CB?logo=materialui&logoColor=white' />
-    <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/>
+
+<!--     <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/> -->
   <!--   <img src='https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white' /> -->
 
     <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
