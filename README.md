@@ -96,7 +96,11 @@
   <img src='https://img.shields.io/badge/-MaterialUI-0081CB?logo=materialui&logoColor=white' />
     <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/>
 
-    <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
+   <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
+  
+   <img src='https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white'/>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+  
 
 
   
