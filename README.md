@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif" width="500" />
+  <img src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif" width="700" />
 </p>
 
 <p align="center"> 
