@@ -52,10 +52,6 @@
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/nalymoslih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-
-
- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats
  <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Naly's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nalymoslih&theme=monokai-metallian&hide_border=true"/>
