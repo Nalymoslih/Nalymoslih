@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif](https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif)]" width="500" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif](https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif)" width="500" />
 </p>
 
 <p align="center"> 
