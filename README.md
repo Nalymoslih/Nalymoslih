@@ -9,7 +9,7 @@
 </p>
 
 
-<!-- <h3 align="center">سڵاو 👋, من نالی مسلح</h1>
+<!-- <h3 align="center">سڵاو 👋, من نالی مسلێح</h1>
 <h3 align="center" dir="rtl"></h3>
  -->
 
@@ -18,7 +18,7 @@
 <h3 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Naly moslih
   <br>
-  👀 Front End Developer 👀
+  👀 Junior Front End Developer 👀
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -31,7 +31,7 @@
 <!-- Social icons section -->
 <p align="center"> 
   <!--
-  <a href="https://twitter.com/YousifJasm001"><img src="https://img.icons8.com/clouds/70/000000/twitter.png"/></a>
+  <a href="https://twitter.com/NalyMoslih"><img src="https://img.icons8.com/clouds/70/000000/twitter.png"/></a>
 -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/naly.moslih/" alt="Dev Pro Tips Discussion & Support Server"><img src="https://img.icons8.com/clouds/70/000000/facebook-new--v2.png"/></a>
@@ -45,29 +45,22 @@
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<!--
-
 -->
 <p align="center"> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Joseph625"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Nalymoslih"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/nalymoslih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- <p align="center">
+ GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+ <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="joseph's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph625&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Naly's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nalymoslih&theme=monokai-metallian&hide_border=true"/>
   </a> 
-</p> -->
+</p> 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -78,7 +71,8 @@
 <p>   
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a> 
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>    
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<!--    <img src='https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png' /> -->
   <img src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
     <img src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white' />
 </p>
@@ -126,7 +120,7 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <!--     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+<!--     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a> -->
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%234ea94b.svg?logo=netlify&logoColor=white"></a>
 
 <!--     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
