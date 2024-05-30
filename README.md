@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naly Moslih Mawlood</h1>
-<h3 align="center">I'm Mobile developer</h3>
+<h3 align="center">I'm Full-stack developer</h3>
 
 <p align="center"> 
   <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />-->
