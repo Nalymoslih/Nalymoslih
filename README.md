@@ -4,7 +4,7 @@
 <p align="center"> 
   <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />-->
   <!--<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif" width="500" /> -->
-  <img src="https://i.postimg.cc/5tyHhDG3/DALL-E-2024-07-23-15-11-55-A-full-stack-developer-sitting-at-a-desk-with-a-laptop-The-developer-h.webp" width="500" />
+<!--   <img src="https://i.postimg.cc/5tyHhDG3/DALL-E-2024-07-23-15-11-55-A-full-stack-developer-sitting-at-a-desk-with-a-laptop-The-developer-h.webp" width="500" /> -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalymoslih&label=Profile%20views&color=0e75b6&style=flat" alt="nalymoslih" /> </p>
