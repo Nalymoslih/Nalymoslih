@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on **Lezzoo**
 
-- 👨‍💻 All of my projects are available at [https://chic-dragon-47bfb5.netlify.app/](https://chic-dragon-47bfb5.netlify.app/)
-
 - 📫 How to reach me **naly.software@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
