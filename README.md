@@ -4,3 +4,5 @@
     <img alt="Nalymoslih's GitHub Profile README" src="https://raw.githubusercontent.com/Nalymoslih/naly-readme/main/light_mode.svg">
   </picture>
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nalymoslih&theme=dark)](https://git.io/streak-stats)
