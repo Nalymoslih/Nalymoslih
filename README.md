@@ -5,10 +5,3 @@
   </picture>
 </a>
 
-
-<br><br>
-
-
-  
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Nalymoslih&theme=dark&hide_border=false&border_radius=10)](https://git.io/streak-stats)
-
