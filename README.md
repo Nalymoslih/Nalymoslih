@@ -5,4 +5,4 @@
   </picture>
 </a>
 <br><br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nalymoslih&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nalymoslih&theme=dark&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
